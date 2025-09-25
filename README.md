@@ -6,3 +6,7 @@ Yayınlanan siteye buradan ulaşabilirsiniz:
 - Kendimi tanıtan bir **kişisel blog sitesi**
 
 👉 [Siteye Git](https://OsmanErfidan.github.io/kisisel-blog/)
+
+## 👤 Öğrenci Bilgileri
+- **Ad Soyad:** Osman Erfidan  
+- **Öğrenci No:** 2426512004  

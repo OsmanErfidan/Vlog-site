@@ -5,7 +5,7 @@ Yayınlanan siteye buradan ulaşabilirsiniz:
 ## İçerik
 - Kendimi tanıtan bir **kişisel blog sitesi**
 
-👉 [Siteye Git](https://OsmanErfidan.github.io/kisisel-blog/)
+👉 [Siteye Git](https://osmanerfidan.github.io/Vlog-site/)
 
 ## 👤 Öğrenci Bilgileri
 - **Ad Soyad:** Osman Erfidan  
